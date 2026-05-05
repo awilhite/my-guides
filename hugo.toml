@@ -1,0 +1,16 @@
+baseURL = "https://yourdomain.com"
+title = "Your Site Name"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  description = "Project guides for construction, woodworking, and vehicles"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
