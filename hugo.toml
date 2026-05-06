@@ -1,10 +1,10 @@
 baseURL = "https://genuine-sunflower-7b4279.netlify.app"
-title = "Made to Last"
+title = "The Build Manual"
 theme = "PaperMod"
 paginate = 10
 
 [params]
-  description = "Project guides for construction, woodworking, and vehicles"
+  description = "Detailed project guides for construction, woodworking, vehicles, and more"
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
